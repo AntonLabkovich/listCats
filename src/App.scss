@@ -1,0 +1,12 @@
+
+
+.app{
+  height: 97vh;
+  max-width: 1180px;
+  margin: 0 auto;
+  @media screen and (max-width: 680px) {
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+  }
+}

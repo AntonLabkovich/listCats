@@ -1,0 +1,10 @@
+body{
+  background: #0B0C23;;
+}
+
+html{
+  font-size: 13pt;
+  @media screen and (max-width: 680px) {
+    font-size: 10pt;
+  }
+}
